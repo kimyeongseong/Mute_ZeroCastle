@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Monster_Zombie_Walk
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 7cbf166ba0a7eb84ea953d1684c4c961, type: 3}
+    - time: 0.1
+      value: {fileID: 21300000, guid: 55b490678f538304f9eb1afed6226392, type: 3}
+    - time: 0.2
+      value: {fileID: 21300000, guid: 2cab3201af48c744c8f62a03da2e3b85, type: 3}
+    - time: 0.3
+      value: {fileID: 21300000, guid: 75ad3ebd864e28e43b8ec3c643a0b91f, type: 3}
+    - time: 0.4
+      value: {fileID: 21300000, guid: 14d019bc62ddcaa4a9f1c36bbe623d85, type: 3}
+    - time: 0.5
+      value: {fileID: 21300000, guid: ea6e339c928be5146b25028c3f758dc8, type: 3}
+    - time: 0.6
+      value: {fileID: 21300000, guid: 224a950517fe6754e8052d0d57f00816, type: 3}
+    - time: 0.7
+      value: {fileID: 21300000, guid: 152ca49d3efee104f870fc7544d5e490, type: 3}
+    - time: 0.8
+      value: {fileID: 21300000, guid: 102da0869b847524097c7535e9ab9b61, type: 3}
+    - time: 0.9
+      value: {fileID: 21300000, guid: 3451f3f53ff570e48aa5a69624f62df2, type: 3}
+    - time: 1
+      value: {fileID: 21300000, guid: b057aac622d2f934bb3ff6994b53f650, type: 3}
+    - time: 1.1
+      value: {fileID: 21300000, guid: 371f0d28aaf96ec40af3a820d3402eba, type: 3}
+    - time: 1.2
+      value: {fileID: 21300000, guid: 5bf0008d1688fbb42a4fdae74a15d014, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 10
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300000, guid: 7cbf166ba0a7eb84ea953d1684c4c961, type: 3}
+    - {fileID: 21300000, guid: 55b490678f538304f9eb1afed6226392, type: 3}
+    - {fileID: 21300000, guid: 2cab3201af48c744c8f62a03da2e3b85, type: 3}
+    - {fileID: 21300000, guid: 75ad3ebd864e28e43b8ec3c643a0b91f, type: 3}
+    - {fileID: 21300000, guid: 14d019bc62ddcaa4a9f1c36bbe623d85, type: 3}
+    - {fileID: 21300000, guid: ea6e339c928be5146b25028c3f758dc8, type: 3}
+    - {fileID: 21300000, guid: 224a950517fe6754e8052d0d57f00816, type: 3}
+    - {fileID: 21300000, guid: 152ca49d3efee104f870fc7544d5e490, type: 3}
+    - {fileID: 21300000, guid: 102da0869b847524097c7535e9ab9b61, type: 3}
+    - {fileID: 21300000, guid: 3451f3f53ff570e48aa5a69624f62df2, type: 3}
+    - {fileID: 21300000, guid: b057aac622d2f934bb3ff6994b53f650, type: 3}
+    - {fileID: 21300000, guid: 371f0d28aaf96ec40af3a820d3402eba, type: 3}
+    - {fileID: 21300000, guid: 5bf0008d1688fbb42a4fdae74a15d014, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.3000001
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events:
+  - time: 0.3
+    functionName: Soundset
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 1
+    messageOptions: 0
+  - time: 0.7
+    functionName: Soundset
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 2
+    messageOptions: 0
+  - time: 1
+    functionName: Soundset
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 1
+    messageOptions: 0

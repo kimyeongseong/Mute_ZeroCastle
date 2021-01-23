@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DoubleCabinet
+  m_Controller: {fileID: 9100000, guid: 562ee5a8acc26484981d962d2f6d264b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5fac536a2ab61a042b99cf533e027d81, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d5a4c854284761b44ba1c3654868a6d0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 94ffbb78488a8cc449a61950852709e5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 66bc9cec4bdc0be4e8c7640d8d11c296, type: 2}

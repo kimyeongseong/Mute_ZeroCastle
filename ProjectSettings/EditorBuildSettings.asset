@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ZeroCaslte.unity
+    guid: d6fb6ea29e46eb54b83c9e4281cccdf7
+  - enabled: 1
+    path: Assets/Logo.unity
+    guid: a20c4f11ccf27df438e392656dbaf223
+  - enabled: 1
+    path: Assets/Opening.unity
+    guid: 54105d9feafc0cf43864259ad668be76
+  - enabled: 1
+    path: Assets/Scenes/InGame.unity
+    guid: 0dfb4f34cade5814092bb2d875fe7f78
+  - enabled: 1
+    path: Assets/end.unity
+    guid: 80e93f8e9e26de14e93328fb17b56005
+  m_configObjects: {}
